@@ -31,7 +31,7 @@ Closed hardware
 
 .. toctree::
     :maxdepth: 1
-
+    DroneePILOT <common-DroneePILOT-autopilot>
     Emlid Edge <common-emlid-edge>
     NAVIO2 <common-navio2-overview>
     Intel Aero <common-intel-aero-overview>
